@@ -27,7 +27,7 @@
     </div>
     <div>May 2020 - August 2021</div>
 </div>
-<i>Master of Accountancy</i>
+<i>Master of Accountancy</i><br>
 Certificate : Management and Leadership
 
 <div class='box'>
