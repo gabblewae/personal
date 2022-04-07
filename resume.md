@@ -7,11 +7,11 @@
 }
 </style>
 <div class='box'>
-    <div>(240) 412-3672</div>
-    <div>|</div>
-    <div>gabblewae@gmail.com</div>
-    <div>|</div>
-    <div>Linkedin.com/in/gabblewae</div>
+    <p>(240) 412-3672</p>
+    <p>|</p>
+    <p>gabblewae@gmail.com</p>
+    <p>|</p>
+    <a href='https://linkedin.com/in/gabblewae'>Linkedin.com/in/gabblewae</a>
 </div>
 
 ---
