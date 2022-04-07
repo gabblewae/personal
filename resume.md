@@ -29,7 +29,7 @@
 </div>
 <i>Master of Accountancy</i></br>
 Certificate : Management and Leadership
-</br></br>
+
 <div class='box'>
     <div class = 'box'>
         <div>Miami University</div>
@@ -38,7 +38,7 @@ Certificate : Management and Leadership
     </div>
     <div>August 2015 - August 2019</div>
 </div>
-<i>Bachelor of Science in Software Engineering</i></br></br>
+<i>Bachelor of Science in Software Engineering</i>
 
 ---
 ### <center>Experience
