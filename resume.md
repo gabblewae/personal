@@ -53,7 +53,7 @@ Certificate : Management and Leadership
 </div>
 <i>Application Developer</i>
 
-- Creates change implementation plan to promotes code to higher environments using Service Now Change Requests
+- Creates change implementation plans to promote code to higher environments using Service Now Change Requests
 - Partners with stakeholders to receive sign off for code promoted to UAT and Prod
 - Facilitates knowledge transfer sessions with internal and external team members to resolve blockers
 - Leads stand up, retrospective, and other scrum events to facilitate team discussion
